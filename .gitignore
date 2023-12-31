@@ -70,3 +70,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore Mad doc backup
+dsa game/Mad\ doc\ backup/
+
+# Ignore Library and artifacts
+dsa game/Mad\ doc\ backup/Library/
+dsa game/Mad\ doc\ backup/Library/Bee/
+dsa game/Mad\ doc\ backup/Library/Bee/PlayerScriptAssemblies/
+dsa game/Mad\ doc\ backup/Library/Bee/artifacts/
